@@ -1,8 +1,8 @@
  # xml-para-xlsx-esocial - App em Java que converte os arquivos XML enviados ao e-Social em um relatório xlsx unificado
 
-![GitHub repo size](https://img.shields.io/github/repo-size/gabrielsouzas/learn-with-fun?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/gabrielsouzas/learn-with-fun?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/gabrielsouzas/learn-with-fun?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/gabrielsouzas/xml-para-xlsx-esocial?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/gabrielsouzas/xml-para-xlsx-esocial?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/gabrielsouzas/xml-para-xlsx-esocial?style=for-the-badge)
 
 ## 🚀 Em desenvolvimento
 
