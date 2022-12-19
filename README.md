@@ -6,8 +6,6 @@
 
 ## 🚀 Em desenvolvimento
 
-- [ ] Próximo commit em 19/12/2022
-
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
